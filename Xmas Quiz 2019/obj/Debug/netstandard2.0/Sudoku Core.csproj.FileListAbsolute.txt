@@ -1,0 +1,9 @@
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Xmas Quiz 2019\bin\Debug\netstandard2.0\Sudoku Core.deps.json
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Xmas Quiz 2019\bin\Debug\netstandard2.0\Sudoku Core.dll
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Xmas Quiz 2019\bin\Debug\netstandard2.0\Sudoku Core.pdb
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Xmas Quiz 2019\obj\Debug\netstandard2.0\Sudoku Core.csprojAssemblyReference.cache
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Xmas Quiz 2019\obj\Debug\netstandard2.0\Sudoku Core.csproj.CoreCompileInputs.cache
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Xmas Quiz 2019\obj\Debug\netstandard2.0\Sudoku Core.AssemblyInfoInputs.cache
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Xmas Quiz 2019\obj\Debug\netstandard2.0\Sudoku Core.AssemblyInfo.cs
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Xmas Quiz 2019\obj\Debug\netstandard2.0\Sudoku Core.dll
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Xmas Quiz 2019\obj\Debug\netstandard2.0\Sudoku Core.pdb

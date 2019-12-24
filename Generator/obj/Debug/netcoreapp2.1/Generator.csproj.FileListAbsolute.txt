@@ -1,0 +1,14 @@
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\obj\Debug\netcoreapp2.1\Generator.csprojAssemblyReference.cache
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\obj\Debug\netcoreapp2.1\Generator.csproj.CoreCompileInputs.cache
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\obj\Debug\netcoreapp2.1\Generator.AssemblyInfoInputs.cache
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\obj\Debug\netcoreapp2.1\Generator.AssemblyInfo.cs
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\bin\Debug\netcoreapp2.1\Generator.deps.json
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\bin\Debug\netcoreapp2.1\Generator.runtimeconfig.json
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\bin\Debug\netcoreapp2.1\Generator.runtimeconfig.dev.json
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\bin\Debug\netcoreapp2.1\Generator.dll
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\bin\Debug\netcoreapp2.1\Generator.pdb
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\bin\Debug\netcoreapp2.1\Sudoku Core.dll
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\bin\Debug\netcoreapp2.1\Sudoku Core.pdb
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\obj\Debug\netcoreapp2.1\Generator.csproj.CopyComplete
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\obj\Debug\netcoreapp2.1\Generator.dll
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Generator\obj\Debug\netcoreapp2.1\Generator.pdb

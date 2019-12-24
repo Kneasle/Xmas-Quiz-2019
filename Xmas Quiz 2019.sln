@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sudoku Core", "Xmas Quiz 2019\Sudoku Core.csproj", "{B74CF9ED-632B-49CC-A165-1FDDF4AA1A17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Generator.csproj", "{71BF2D40-6BFA-4868-95BD-6FB793AF224D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{F8E68805-505D-4648-94F0-0FBEB13E4665}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B74CF9ED-632B-49CC-A165-1FDDF4AA1A17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74CF9ED-632B-49CC-A165-1FDDF4AA1A17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74CF9ED-632B-49CC-A165-1FDDF4AA1A17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74CF9ED-632B-49CC-A165-1FDDF4AA1A17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71BF2D40-6BFA-4868-95BD-6FB793AF224D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71BF2D40-6BFA-4868-95BD-6FB793AF224D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71BF2D40-6BFA-4868-95BD-6FB793AF224D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71BF2D40-6BFA-4868-95BD-6FB793AF224D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E68805-505D-4648-94F0-0FBEB13E4665}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E68805-505D-4648-94F0-0FBEB13E4665}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E68805-505D-4648-94F0-0FBEB13E4665}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E68805-505D-4648-94F0-0FBEB13E4665}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BF8E4F6-AB11-46E4-8B14-50D65CE68333}
+	EndGlobalSection
+EndGlobal

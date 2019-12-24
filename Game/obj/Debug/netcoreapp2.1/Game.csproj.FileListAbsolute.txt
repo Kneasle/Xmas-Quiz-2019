@@ -1,0 +1,14 @@
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\bin\Debug\netcoreapp2.1\Game.deps.json
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.json
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\bin\Debug\netcoreapp2.1\Game.runtimeconfig.dev.json
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\bin\Debug\netcoreapp2.1\Game.dll
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\bin\Debug\netcoreapp2.1\Game.pdb
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\bin\Debug\netcoreapp2.1\Sudoku Core.dll
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\bin\Debug\netcoreapp2.1\Sudoku Core.pdb
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\obj\Debug\netcoreapp2.1\Game.csprojAssemblyReference.cache
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\obj\Debug\netcoreapp2.1\Game.csproj.CoreCompileInputs.cache
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfoInputs.cache
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\obj\Debug\netcoreapp2.1\Game.AssemblyInfo.cs
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\obj\Debug\netcoreapp2.1\Game.csproj.CopyComplete
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\obj\Debug\netcoreapp2.1\Game.dll
+C:\Users\kneas\Dropbox\Programming\C#\Xmas Quiz 2019\Game\obj\Debug\netcoreapp2.1\Game.pdb
